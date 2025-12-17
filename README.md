@@ -1,4 +1,4 @@
-# Hotel Reservation System
+# Test de recrutement - Hotel Reservation System
 
 Ce projet est un système simple de réservation d'hôtels en Java. Il permet de gérer des chambres, des utilisateurs, et des réservations avec des validations de disponibilité et de budget.
 
